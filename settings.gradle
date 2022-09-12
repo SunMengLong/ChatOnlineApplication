@@ -1,0 +1,5 @@
+include ':chatB'
+include ':chatA'
+include ':app'
+rootProject.name = "ChatOnlineApplication"
+include ':audiorecode'

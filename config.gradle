@@ -1,0 +1,4 @@
+ext{
+    installchatA = true
+    installchatB = true
+}
